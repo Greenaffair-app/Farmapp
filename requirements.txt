@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+requests
+anthropic
+playwright
+soilgrids
+pyproj
